@@ -1,4 +1,3 @@
-````{"variant":"standard","id":"61827","title":"Unified Flutter UI Component Serialization README Cleaned"}
 # Unified Flutter UI Component Serialization
 
 ## Description
@@ -91,4 +90,3 @@ Special thanks to the authors and contributors of the original libraries:
 - Widgetbook team  
 
 Their work enabled the creation of this unified component registry and serves as inspiration for tooling and prototyping.
-````
